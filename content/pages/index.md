@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Best Teacher of 2024
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
