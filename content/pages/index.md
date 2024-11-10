@@ -115,7 +115,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Creative Writer of the year
+      - title: Creative Writer of The Year
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
