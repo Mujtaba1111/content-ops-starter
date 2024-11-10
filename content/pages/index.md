@@ -62,7 +62,7 @@ sections:
     subtitle: 'He has proudly achieved these certificates:'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Best Volunteer
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
