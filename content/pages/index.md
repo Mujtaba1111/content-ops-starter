@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Welcome to Sayed Mujtaba Hashimi's personal site!
-      color: text-neutral
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes
     text: >
