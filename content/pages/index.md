@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/AVC_8247.JPG
-      altText: Unblock your team boost your time to production preview
+      altText: Sayed's photo
       elementId: ''
       type: ImageBlock
     badge:
