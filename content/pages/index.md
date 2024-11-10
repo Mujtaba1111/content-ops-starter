@@ -161,7 +161,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Has the proude of working to these  World known companies
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
