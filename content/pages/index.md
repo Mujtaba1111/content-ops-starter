@@ -161,7 +161,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Has the pride of working to these  World known companies
+  - subtitle: Has the pride of working for these  world known companies
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
