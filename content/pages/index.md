@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to Sayed Mujtaba Hashimi's personal site!
+      text: Sayed Mujtaba Hashimi's personal site!
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes
